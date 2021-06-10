@@ -1,4 +1,11 @@
-### Hi there 👋
+# Alexandre Pedrecal
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrecal/)](https://www.linkedin.com/in/pedrecal/)
+
+## What's up my friends 👋
+
+- 🔭 Working [@RedVentures](https://github.com/RedVentures)
+- 🌱 I’m currently learning Golang and AWS
 
 <!--
 **pedrecal/pedrecal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
