@@ -4,7 +4,7 @@
 
 ## Hi! 👋
 
-- 🔭 Working [@RedVentures](https://github.com/RedVentures)
+- 🔭 Working [@ RedVentures](https://github.com/RedVentures)
 - 🌱 I’m currently learning Golang and AWS
 
 <!--
