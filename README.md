@@ -5,7 +5,7 @@
 ## Hi! 👋
 
 - 🔭 Working [@ RedVentures](https://github.com/RedVentures)
-- 🌱 I’m currently learning Golang and AWS
+- Stack: TypeScript; Golang; AWS;
 
 <!--
 **pedrecal/pedrecal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
