@@ -1,6 +1,7 @@
-# Alexandre Pedrecal
+# Alexandre Pedrecal Campos
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Pedrecal/)](https://www.linkedin.com/in/Pedrecal/) [![Github Badge](https://img.shields.io/badge/-Github-171515?style=flat-square&labelColor=171515&logo=github&logoColor=white&link=https://github.com/Pedrecal)](https://github.com/Pedrecal) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:pedrecalc@gmail.com)](mailto:pedrecalc@gmail.com) [![Phone Badge](https://img.shields.io/badge/-Phone-333333?style=flat-square&labelColor=333333&logo=phone&logoColor=white)](#) +55 (73) 991693479
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Pedrecal/)](https://www.linkedin.com/in/Pedrecal/) [![Github Badge](https://img.shields.io/badge/-Github-171515?style=flat-square&labelColor=171515&logo=github&logoColor=white&link=https://github.com/Pedrecal)](https://github.com/Pedrecal) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:pedrecalc@gmail.com)](mailto:pedrecalc@gmail.com)
+
 
 ---
 
@@ -88,4 +89,3 @@ Fellow | Mar 2019 - Jul 2019
 ## Extracurricular
 - Winner of the NIBS Hackathon 2017 ("Doador Legal" project, with a team of 5 members).
 - Member of the Organizing Committee of "SINFORM" 2016 (UESC Computing Week).
-
