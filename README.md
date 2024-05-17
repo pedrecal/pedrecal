@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-Software Engineer with a strong background in backend development and a passion for working with Golang. Experienced in building scalable and efficient systems, integrating with multiple APIs, and managing complex projects. Known for taking on new challenges, collaborating effectively with teams, and maintaining humility throughout. Seeking opportunities to work on innovative projects, primarily using Golang, and aiming to earn in foreign exchange.
+Software Engineer with a strong background in backend development and a passion for working with Golang. Experienced in building scalable and efficient systems, integrating with multiple APIs, and managing complex projects. Known for taking on new challenges, collaborating effectively with teams, and maintaining humility throughout. Seeking opportunities to work on innovative projects, primarily using Golang.
 
 ---
 
