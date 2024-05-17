@@ -1,12 +1,12 @@
 # Alexandre Pedrecal Campos
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Pedrecal/)](https://www.linkedin.com/in/Pedrecal/) [![Github Badge](https://img.shields.io/badge/-Github-171515?style=flat-square&labelColor=171515&logo=github&logoColor=white&link=https://github.com/Pedrecal)](https://github.com/Pedrecal) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&labelColor=c14438&logo=gmail&logoColor=white&link=mailto:pedrecalc@gmail.com)](mailto:pedrecalc@gmail.com)
+[ [LinkedIn](https://www.linkedin.com/in/Pedrecal/) ] . [ [GitHub](https://github.com/Pedrecal) ] . [ [Email](mailto:pedrecalc@gmail.com) ]
 
 
 ---
 
 ## About Me
-Experienced Software Engineer with a strong background in backend development and a passion for Golang. Skilled in building scalable systems, integrating with multiple APIs, and managing complex projects. Known for taking on new challenges, collaborating effectively with teams, and maintaining a positive attitude. Eager to work on innovative projects, particularly those using Golang.
+Software Engineer with a strong background in backend development and a passion for working with Golang. Experienced in building scalable and efficient systems, integrating with multiple APIs, and managing complex projects. Known for taking on new challenges, collaborating effectively with teams, and maintaining humility throughout. Seeking opportunities to work on innovative projects, primarily using Golang, and aiming to earn in foreign exchange.
 
 ---
 
@@ -46,7 +46,7 @@ Developer | 2019
 
 ### Take Blip
 Software Engineer | 05/2020 - 05/2021
-- Chatbot development on Blip platform, including REST API development and conversational flow building. Developed BLiP plugins with Node.JS and React.
+- Chatbot development on Blip platform, including REST API development and conversational flow building. Developed BLiP plugins with Node.js and React.
 - Worked in the squad dedicated to the bank BMG, building complex bots that assisted customers, especially older individuals, in taking loans, checking their bank status, and obtaining information through WhatsApp.
 - Developed bots to assist employees inside BMG.
 - **Stack:** NodeJS, .NET, BLiP, Kubernetes, Azure
@@ -82,7 +82,7 @@ Fellow | Feb 2016 - Jul 2016
 ### Initiation in Technological Development and Innovation
 Fellow | Mar 2019 - Jul 2019
 - Developed a management software for the university bio-tech incubator with features such as calendar, contract generator, certificates generator.
-- **Stack:** React, Firebase, Node.JS
+- **Stack:** React, Firebase, Node.js
 
 ---
 
