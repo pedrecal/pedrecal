@@ -1,17 +1,3 @@
----
-name: Alexandre Pedrecal Campos
-header:
-  - text: |
-      <!-- <span style="font-size: 1.2em; font-weight: bold;">Applying for: Software Engineer</span> -->
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+55) 73-99169-3479
-    newLine: true
-  - text: <span class="iconify" data-icon="tabler:mail"></span> me@pedrecal.com
-    link: mailto:me@pedrecal.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> Github.com/Pedrecal
-    link: https://github.com/Pedrecal
-  - text: <span class="iconify" data-icon="charm:person"></span> LinkedIn.com/in/Pedrecal
-    link: https://www.linkedin.com/in/Pedrecal/
----
 
 ## About Me
 
